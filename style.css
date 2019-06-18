@@ -1,0 +1,17 @@
+body {
+  background: #fefefe;
+}
+
+.mainHeader {
+  color: tomato;
+}
+
+.sectionHeader{
+  color: #1460aa;
+  font-size: 64px;
+}
+
+p {
+  color: darkblue;
+}
+

@@ -1,8 +1,8 @@
 console.log ('siemka');
-const name= "IZa";
-const age = 20;
+const name= "Iza";
+const age = 31;
 console.log(name);
 console.log(age);
 
-console.log(`Nazywam się ${name}
-i mam ${age} lat`)
+console.log(`Mam na imię ${name}
+i mam ${age} wiosen`)

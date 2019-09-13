@@ -6,12 +6,11 @@ body {
   color: tomato;
 }
 
-.sectionHeader{
+.sectionHeader {
   color: #1460aa;
-  font-size: 64px;
+  font-size: 12 px;
 }
 
 p {
   color: darkblue;
 }
-
